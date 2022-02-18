@@ -3,3 +3,4 @@
 *.cfg
 **/Lib
 **/Scripts
+*.db
